@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers;
+package com.fstk1337.loans;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

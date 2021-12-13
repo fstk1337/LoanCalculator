@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers;
+package com.fstk1337.loans;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
