@@ -1,4 +1,4 @@
-package com.fstk1337.loans;
+package com.fstk1337;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

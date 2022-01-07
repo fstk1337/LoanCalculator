@@ -1,4 +1,4 @@
-package com.fstk1337.loans;
+package com.fstk1337;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
